@@ -10,6 +10,8 @@ module.exports = {
           {
             modules: 'commonjs',
             debug: false
+          
+          
           }
         ]
       ]
